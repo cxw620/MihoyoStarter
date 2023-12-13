@@ -1,0 +1,13 @@
+[package]
+name = "mihoyo_starter"
+version = "0.1.0"
+authors = ["Hantong Chen <hantong@utop.win>"]
+edition = "2021"
+description = "A tool to start mihoyo games"
+readme = "README.md"
+repository = "https://github.com/cxw620/MihoyoStarter"
+license-file = "LICENSE"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
