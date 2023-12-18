@@ -13,6 +13,8 @@ ATTENTION: **No warranty provided. USE AT YOUR OWN RISK**!
   - [ ] `Cloud Genshin Impact`
   - [ ] ~~`Cloud Star Rail`~~ Client NOT SUPPORTED
 
+More practical features from [DGP-Studio/Snap.Hutao](https://github.com/DGP-Studio/Snap.Hutao) which're suitable for cmdline usage may be implemented here.
+
 ## License
 
 GNU GENERAL PUBLIC LICENSE V3
@@ -20,3 +22,4 @@ GNU GENERAL PUBLIC LICENSE V3
 ## Special thanks
 
 - [babalae/mihoyo-starter](https://github.com/babalae/mihoyo-starter)
+- [DGP-Studio/Snap.Hutao](https://github.com/DGP-Studio/Snap.Hutao)
